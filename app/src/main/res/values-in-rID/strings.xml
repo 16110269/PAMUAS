@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Klub sepak bola</string>
+    <string name="last_match">Pertandingan</string>
+    <string name="upcoming_match">Tim</string>
+    <string name="saved_match">Favorit</string>
+    <string name="hello_blank_fragment">" Halo fragmen kosong"</string>
+
+
+
+</resources>
