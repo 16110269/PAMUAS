@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fußballverein</string>
+    <string name="last_match">Streichhölzer</string>
+    <string name="saved_match">" Liebling"</string>
+    <string name="upcoming_match">" das Team"</string>
+    <string name="hello_blank_fragment">Hallo leeres Fragment</string>
+</resources>
